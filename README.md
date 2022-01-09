@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbasu-umass
 - 👀 I’m interested in classical political economy and applied econometrics.
-- 🌱 I’m currently learning to make an R package.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to make R packages.
+- 💞️ I’m looking to collaborate on applied econometrics.
 - 📫 How to reach me: dbasu@econs.umass.edu
 
 <!---
